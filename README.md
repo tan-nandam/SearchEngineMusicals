@@ -1,2 +1,2 @@
-# swimming-search-engine
-Search Engine for Swimming
+# musicals-search-engine
+Search Engine for musicals
